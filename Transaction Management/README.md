@@ -1,9 +1,9 @@
-## Transaction management related interview questions
-Spring Boot Transaction management
+## Transaction Management Interview Questions
 
 #### 1️⃣ How to implement transaction in Spring/Hibernate ?
 
 ➡️ When you intregrate your Hibernate with Spring Boot project then you don't need to use Hibernate Transaction Management.
+
 You can use Spring declarative transaction management using `@Transactional` annotation.
 
 #### 2️⃣ What is @Transactional ?
